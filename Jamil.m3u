@@ -1,17 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",Sky Sports Cricket
-https://networkbest.ru.com/cdn/premium65/chunks.m3u8
-#EXTINF:-1 tvg- group-title="Sports",FOX CRICKET
-https://networkbest.ru.com/cdn/premium369/chunks.m3u8?|Referer=https://player.licenses4.me
-#EXTINF:-1 tvg- group-title="Sports",Astro Cricket
-https://networkbest.ru.com/cdn/premium370/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg- group-title="Sports",Super Sports Cricket
-https://networkbest.ru.com/cdn/premium368/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg- group-title="Sports",Willow HD
-https://networkbest.ru.com/cdn/premium346/chunks.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS
-http://stream.accessnetbd.com/hls/sky12.m3u8
 #EXTINF:-1 tvg- group-title="Bangla",Boishakhi 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg- group-title="Bangla",Jamuna tv
-https://youtu.be/KedHi6fqx5w
+#EXTINF:-1 tvg- group-title="Indian Bangla",Sun Bangla :-
+http://AllLiveSportsLinks.hopto.org:80/hls/sunbangla.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Sony Aath :-
+http://AllLiveSportsLinks.hopto.org:80/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg- group-title="Bangla",Gazi TV :-
+http://AllLiveSportsLinks.hopto.org:80/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Travel XP Bangla :-
+http://AllLiveSportsLinks.hopto.org:80/hls/travelxp.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Zee Bangla Cinema :-
+http://AllLiveSportsLinks.hopto.org:80/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Colors Bangla Cinema :-
+http://AllLiveSportsLinks.hopto.org:80/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Jalsha Movies HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Colors Bangla HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Zee Bangla HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg- group-title="Indian Bangla",Star Jalsha HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/starjalsha.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Sony Six HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/sonysix.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Sony Ten 1:-
+http://AllLiveSportsLinks.hopto.org:80/hls/sonyten1.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Sony Ten 2 :-
+http://AllLiveSportsLinks.hopto.org:80/hls/sonyten2.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Sony Ten 3 :-
+http://AllLiveSportsLinks.hopto.org:80/hls/sonyten3.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Star Sports 1 HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Star Sports 2 HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/starsports2.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Star Sports Select 1 HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Star Sports Select 2 HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/select2.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Euro Sports HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/euro.m3u8
+#EXTINF:-1 tvg- group-title="Sports",T Sports HD :-
+http://AllLiveSportsLinks.hopto.org:80/hls/t-sports.m3u8
